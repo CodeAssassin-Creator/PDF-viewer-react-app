@@ -5,6 +5,7 @@ This project is a simple PDF viewer built using React. It allows users to upload
 Before running the project, ensure you have the following installed on your machine:
 
 Node.js
+
 npm (Node Package Manager)
 
 ## Getting Started
@@ -36,6 +37,9 @@ Click the "View PDF" button to view the uploaded PDF in the browser.
 This project uses the following dependencies:
 
 react: JavaScript library for building user interfaces.
+
 react-dom: React package for working with the DOM.
+
 @react-pdf-viewer/core: Core package for PDF viewer in React.
+
 @react-pdf-viewer/default-layout: Default layout plugin for React PDF viewer.
